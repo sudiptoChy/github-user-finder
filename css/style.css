@@ -1,0 +1,19 @@
+.avatar {
+    width: 100%;
+}
+.clone-url {
+    position: absolute;
+    left: -9999px;
+}
+
+#loading {
+    background: url("http://www.aveva.com/Images/ajax-loader.gif") no-repeat scroll center center rgba(255, 255, 255, 0.5);
+    position: absolute;
+    height: 100%;
+    width: 54%;
+    z-index: 99999999999999;
+}
+
+.hide {
+    display: none;
+}
